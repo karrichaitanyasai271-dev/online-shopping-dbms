@@ -34,11 +34,12 @@ and shipping manually leads to errors and makes order tracking difficult.
 ```
 online-shopping-dbms/
 |-- sql/
-|   |-- ddl.sql        # CREATE TABLE + constraints (Hasini)
-|   |-- dml.sql        # sample data INSERTs (Varshini)
-|   `-- queries.sql    # CRUD, JOINs, aggregate queries (Varshini)
+|   |-- ddl.sql        # CREATE TABLE + constraints (Hasini — to be added)
+|   |-- dml.sql        # sample data INSERTs (Varshini — to be added)
+|   `-- queries.sql    # CRUD, JOINs, aggregate queries (Varshini — to be added)
 |-- diagrams/
-|   `-- er-diagram.png # ER diagram (Karri — to be added)
+|   |-- er-diagram.png     # ER diagram (Karri)
+|   `-- relational-schema.md # relational schema (Karri)
 |-- docs/              # Word documentation (Yasaswini — to be added)
 |-- screenshots/       # query output screenshots (Yasaswini — to be added)
 `-- README.md
@@ -48,7 +49,7 @@ online-shopping-dbms/
 
 | Student Name | Roll Number | Role / Responsibility | Contribution Status |
 |---|---|---|---|
-| Karri Chaitanya Sai | 25B11AI498 | ER diagram & relational schema design | In Progress |
+| Karri Chaitanya Sai | 25B11AI498 | ER diagram & relational schema design | Completed |
 | Nayudu Veera Hasini | 25B11AI833 | DDL: tables, keys, constraints | Not Started |
 | Murugu Amrutha Varshini | 25B11AI779 | DML: sample data + SQL queries | Not Started |
 | Korrapati Yasaswini | 25B11AI575 | Documentation & screenshots | Not Started |

@@ -1,8 +1,0 @@
--- Online Shopping System — Queries (DQL / CRUD)
--- Owner: Murugu Amrutha Varshini (25B11AI779) | Status: Not Started
---
---   * DDL/DML are in ddl.sql and dml.sql
---   * SELECT queries: customer orders, product stock, order totals,
---     payment & shipping status
---   * JOINs across Customer-Order-Order_Item-Product-Payment-Shipping
---   * Aggregates: COUNT, SUM, AVG over orders, quantities, and sales
